@@ -61,7 +61,7 @@ Additional packages can be installed at a later time by calling sdkmanager manua
 Command line tools are versioned using two variables - short and long.
 Long one is the build number, used in the zip URL, short one is the human friendly version name.
 
-By default, setup-android installs version 12266719 (short version 16.0).
+By default, setup-android installs version 14742923 (short version 20.0).
 
 To install a different version, call setup-android with desired long version as the input parameter `cmdline-tools-version`:
 ```yaml
@@ -74,6 +74,7 @@ To install a different version, call setup-android with desired long version as 
 #### Version table
 | Short version | Long version |
 |---------------| --- |
+| 20.0          | 14742923 |
 | 16.0          | 12266719 |
 | 13.0          | 11479570 |
 | 12.0          | 11076708 |
